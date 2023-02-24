@@ -91,7 +91,7 @@
     <dependency>
       <groupId>org.apache.tomcat</groupId>
       <artifactId>tomcat-jasper</artifactId>
-      <version>7.0.72</version>
+      <version>10.1.6</version>
       <scope>test</scope>
     </dependency>
     <dependency>
